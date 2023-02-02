@@ -1,4 +1,4 @@
-export const sampleThree = `I AM SAM. I AM SAM. SAM I AM.
+export const sampleSix = `I AM SAM. I AM SAM. SAM I AM.
 
 THAT SAM-I-AM! THAT SAM-I-AM! I DO NOT LIKE THAT SAM-I-AM!
 
